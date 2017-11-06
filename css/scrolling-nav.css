@@ -18,8 +18,12 @@ header a {
 	color: #888;
 }
 
+.otherSkills {
+	font-size: 22px;
+}
+
 .project {
-	margin: 35px 0 30px 0;
+	margin: 35px 0 50px 0;
 }
 
 @media (min-width: 992px) {
