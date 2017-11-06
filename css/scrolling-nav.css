@@ -26,6 +26,14 @@ header a {
 	margin: 35px 0 50px 0;
 }
 
+.about img {
+	height: 300px;
+	width: auto;
+	margin: auto;
+	border-radius: 50%;
+	
+}
+
 @media (min-width: 992px) {
   header {
     padding: 156px 0 100px;
