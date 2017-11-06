@@ -36,7 +36,10 @@ header a {
 	margin: auto;
 	border-radius: 50%;
 	filter: grayscale(100%);
-	
+}
+
+.contact img {
+	filter: grayscale(100%);
 }
 
 @media (min-width: 992px) {
